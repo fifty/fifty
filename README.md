@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm Matt! 👋
 
-<!--
-**fifty/fifty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>  Full-stack Software Engineer
 
-Here are some ideas to get you started:
+I am temporarily working as a Full Stack Engineer from Austria, Vienna. Looking to persue a role in AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Publications
+- Coming soon :P
+
+##  Technologies
+- **FrontEnd**: React, Redux, SASS, Webpack
+- **BackEnd**: Go, Node.js, PHP, SpringBoot, Flask
+- **CI/CD**: CircleCI, GitHub Actions, Travis, Jenkins
+- **DevOps**: Docker, Nginx, Kubernetes
+- **Mobile**: React Native
+- **Databases**: MongoDB, MySQL, PostgreSQL, Redis, MariaDB
+- **Languages**: C, C++, Java, Python, LUA, Javascript, Typescript, GO, Assembly, PHP
+- **AI/ML**: Tensorflow, PyTorch, Keras
