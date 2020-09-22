@@ -4,9 +4,6 @@
 
 I am temporarily working as a Full Stack Engineer from Austria, Vienna. Looking to persue a role in AI
 
-## Publications
-- Coming soon :P
-
 ##  Technologies
 - **FrontEnd**: React, Redux, SASS, Webpack
 - **BackEnd**: Go, Node.js, PHP, SpringBoot, Flask
