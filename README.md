@@ -2,7 +2,7 @@
 
 >  Full-stack Software Engineer
 
-I am temporarily working as a Full Stack Engineer from Austria, Vienna. Looking to persue a role in AI
+Backend Engineer at Edge & Part-time Full-Stack Engineer at UEA.
 
 ##  Technologies
 - **FrontEnd**: React, Redux, SASS, Webpack
