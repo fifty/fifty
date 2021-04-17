@@ -11,5 +11,5 @@ Backend Engineer at Edge & Part-time Full-Stack Engineer at UEA.
 - **DevOps**: Docker, Nginx, Kubernetes, gRPC, GC, AWS 
 - **Mobile**: React Native
 - **Databases**: MongoDB, MySQL, PostgreSQL, Redis, MariaDB
-- **Languages**: C, C++, Java, Python, LUA, Javascript, Typescript, GO, Assembly, PHP
+- **Languages**: C, C++, Java, Python, LUA, Javascript, Typescript, GO
 - **AI/ML**: Tensorflow, PyTorch, Keras
